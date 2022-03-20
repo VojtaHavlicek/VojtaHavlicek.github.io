@@ -22,11 +22,10 @@ title: Vojta Creates
 email: vojta.havlicek@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
  Hi, I am Vojta. I like to create and I needed some space to publish my work, so here it is. 
- #baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vojtahavlicek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-  #twitter_username: 
-  #github_username: 
-  
+#twitter_username: 
+ #github_username:   
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
