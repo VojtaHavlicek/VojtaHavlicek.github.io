@@ -27,7 +27,7 @@ url: "https://vojtahavlicek.github.io" # the base hostname & protocol for your s
 #twitter_username: 
  #github_username:   
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
