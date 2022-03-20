@@ -3,9 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Vojta's Space"
+title: "Vojta Creates"
 permalink: /
 ---
 
-# Hello World
+# Vojta Creates
+
+Welcome to my website. I will be publishing stuff that I create whenever I like. If you enjoy it, let me know. 
+
+Vojta
 
