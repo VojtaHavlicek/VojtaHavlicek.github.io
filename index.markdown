@@ -7,4 +7,4 @@ title: "Vojta Creates"
 permalink: /
 ---
 
-Hi, I am Vojta. Welcome to my website. I will be publishing stuff that I create whenever I like. If you enjoy it, let me know. 
+Hi, I am Vojta. Welcome to my website. If you enjoy it, let me know. 
