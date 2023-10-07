@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I am a doctor (of the philosophical variety) and a scientist by day. 
-I stutter a lot and I am often shy, so I used to express myself by making games. These days it mostly helps me to regain focus.
+I am a scientist by day. 
+I used to express myself by making games. These days it mostly helps me to regain focus.
